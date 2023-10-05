@@ -1,25 +1,31 @@
 [1/15, 9:01 PM] Ayushi Gupta
     Add you ideas here iGEM 2023!
 [Ideas.xlsx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/General/Ideas.xlsx)
+
 [2/28, 6:27 PM] Sheersh Sen
     Minutes for today's meeting. Feel free to edit/correct any errors.
 [Meeting3, 2802023.docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/General/MeetingMinutes/Meeting3, 2802023.docx)
+
 [3/2, 7:52 PM] Yukta Subramanian
     Hello iGEM 2023,
 
 I have uploaded a gist of today's meeting with Prof Rachit Aggarwal, Drug Delivery Lab.
 [Meeting-02.03.23.docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/General/Meeting-02.03.23.docx)
+
 [3/2, 10:23 PM] Yukta Subramanian
     Few articles on LNPs have been uploaded. Encourage you to go through them before tomorrow's meeting.
 
 [3/6, 12:33 PM] Sheersh Sen
     iGEM 2023 I've uploaded the meeting minutes of the last meeting. There may be errors and stuff so please do correct them
 [Meeting4, 03032023.docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/General/MeetingMinutes/Meeting4, 03032023.docx)
+
 [3/8, 10:11 PM] Sheersh Sen
     iGEM 2023 Meeting minutes of our 5th meeting. Edit/correct as needed.
 [Meeting5, 07032023.docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/General/MeetingMinutes/Meeting5, 07032023.docx)
+
 [3/9, 2:19 PM] Sohaan Kumar Pattanayak
     iGEM 2023 A rough flow chart of our present ideas on dry and wet labs have been uploaded in the exosomes section
+
 [3/9, 6:09 PM] Shloak Vatsal
     iGEM 2023For the biofilms idea, these are the areas to work upon: 1. Read and extract specifics from the Pasteur wiki
     2. Read on the other approaches to inhibition
