@@ -45,7 +45,7 @@ Thanks to Hemanya for pointing out the need for better task management.
 
 [5/12, 12:35 PM] Aditya Kamath Ammembal
     Dry Lab I have uploaded the entire sequence with the tags and stuff. Sorry for any inconvenience caused. i will also add the aptide sequence in here.
-	[ab sequence with tags and stuff.docx](Documents/IGEM/documentation/filesab_sequence_with_tags_and_stuff.docx)
+	[ab sequence with tags and stuff.docx](<files/ab sequence with tags and stuff.docx>)
 
 [5/22, 12:14 AM] Mrigank Pawagi
 ##Updated scFv Models
@@ -79,13 +79,13 @@ Dry Lab Please use this thread to share any interesting ideas or resources you c
 
 [5/27, 2:02 AM] Anwesha Malla:
 Dry Lab, Aditya Kamath Ammembal This paper is on mRNA-lipid nanoparticle COVID-19 vaccines. Table 1 is important.
-[Covid vaccines by Pfizer and Moderna.pdf] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/Dry Lab/Covid vaccines by Pfizer and Moderna.pdf)
+[Covid vaccines by Pfizer and Moderna.pdf](</files/Covid vaccines by Pfizer and Moderna.pdf>)
 
 [5/27, 2:23 AM] Anwesha Malla:
     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9238147/
 [5/28, 9:54 PM] Tarushri N S
     Resveratrol - Inhibits the release of cytokines (TNF-alpha, IL-6, IL-8, VEGF, MCP-1) and the production of reactive oxygen species in monocytes, macrophages, and lymphocytes. Section 8.5 of the following paper contains the details related to action of resveratrol.
-[Novel drug targets with traditional herbal medicines for overcoming Endometriosis.pdf] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/Dry Lab/Novel drug targets with traditional herbal medicines for overcoming Endometriosis.pdf)
+[Novel drug targets with traditional herbal medicines for overcoming Endometriosis.pdf](</files/Novel drug targets with traditional herbal medicines for overcoming Endometriosis.pdf>)
 
 [5/28, 10:06 PM] Tarushri N S:
     
@@ -100,17 +100,17 @@ https://in.mathworks.com/help/simbio/
 [6/1, 12:00 PM] Mrigank Pawagi
     We will almost certainly require MATLAB, although SimBiology may or may not be required. Nevertheless, its a good skill to have and I would also encourage everybody to check it out if possible. 
 [6/1, 9:43 PM] Sheersh Sen
-    Dry Lab Brief meeting minutes[minutes]
+    Dry Lab Brief meeting minutes[minutes](/minutes/drylab3minutes.md)
 [6/5, 4:22 PM] Sohaan Kumar Pattanayak:
     
 Dry Lab Paper 1 is about the working of generalized mRNA-LNP delivery systems in mRNA therapy as of now, with considerations in specific diseases and the PK-PD analysis ( October 2022: comprehensive enough for our need); Paper 2 is an example of LNP-mRNA delivery by intraperitoneal administration(Jan 2023).
 
-[mRNA-LNP delivery systems.pdf] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/Dry Lab/Research Papers/mRNA-LNP delivery systems.pdf)[LNP delivery-intraperitoneal administration.pdf] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/Dry Lab/Research Papers/LNP delivery-intraperitoneal administration.pdf)
+[mRNA-LNP delivery systems.pdf](</files/mRNA-LNP delivery systems.pdf>)[LNP delivery-intraperitoneal administration.pdf](</files/LNP delivery-intraperitoneal administration.pdf>)
 [6/19, 10:17 AM] Anwesha Malla:
 Dry Lab Here are some papers regarding harmful concentrations of IL8.                                                                                                        Detailed information about the concentrations of IL8 is given in the results section of the pdf titled Interleukin-8 concentration in peritoneal fluid and table 1 of the other pdf, which mentions concentrations of IL8 in the various stages of endometriosis.
 
 
-[Interleukin-8_concentration_in_peritoneal_fluid_of.pdf] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/Dry Lab/Interleukin-8_concentration_in_peritoneal_fluid_of.pdf)[1-s2.0-S0015028216575062-main.pdf] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/Dry Lab/1-s2.0-S0015028216575062-main.pdf)
+[Interleukin-8_concentration_in_peritoneal_fluid_of.pdf](<files//Interleukin-8_concentration_in_peritoneal_fluid_of.pdf>)[1-s2.0-S0015028216575062-main.pdf](<files//1-s2.0-S0015028216575062-main.pdf>)
 #scFv modelling appears to be complete
 [6/21, 1:39 AM] Mrigank Pawagi
     Dry Lab
@@ -160,7 +160,7 @@ Feel free to add on to these.
 
 [6/19, 11:45 AM] Aditya Kamath Ammembal
     Dry Lab Please find attached the sequence of the gene with the UTRs we are using, as I was asked for. I have also uploaded the .dna file here, which can only be opened on Snapgene viewer. If you don't have it, you can still get a one-month free trial for the same on snap gene's website. 
-[O-IL8-15 sequence word.docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/Dry Lab/O-IL8-15 sequence word.docx)[GS-mK-100A-BspQI-GOI (1) (1).dna] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/Dry Lab/GS-mK-100A-BspQI-GOI (1) (1).dna)
+[O-IL8-15 sequence word.docx](<files//O-IL8-15 sequence word.docx>)[GS-mK-100A-BspQI-GOI (1) (1).dna](<files//GS-mK-100A-BspQI-GOI (1) (1).dna>)
 [6/21, 3:18 AM] Mrigank Pawagi
     Do you want the sequence to be validated for stability? (or some other kind of analysis?)
 [6/21, 4:07 AM] Aditya Kamath Ammembal
@@ -171,7 +171,7 @@ Feel free to add on to these.
     I asked for it to see if I could work on finding the translation efficiency of the mRNA(as you mentioned in the 4th task).
 [6/21, 7:08 PM] Sheersh Sen
     Dry Lab Rough meeting minutes and weekend goals have been uploaded. Please add in anything I might've missed.
-[DryLab5, 21062023.docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/Dry Lab/Summaries/DryLab5, 21062023.docx)
+[DryLab5, 21062023.docx](<files//Summaries/DryLab5, 21062023.docx>)
 [6/24, 10:32 PM] Sheersh Sen
     Dry Lab So I spent some time going through the mRNA-LNP Delivery System paper uploaded. I'm around 10 pages into the paper (out of 23) but so far it has been a very useful resources. I have uploaded a file named 'Homework' in the mRNA-LNP folder with relevant points I've found so far. A summary follows:
 
@@ -191,7 +191,7 @@ Feel free to add on to these.
 7. Another paper deals with a comparative study of various mRNA delivery methods and shows why LNP methods are more efficient.
 
 8. I'll keep updating the docx file and add more relevant papers over time.
-[Homework.docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/Dry Lab/mRNA-LNP Delivery Systems/Homework.docx)
+[Homework.docx](<files//mRNA-LNP Delivery Systems/Homework.docx>)
 [6/25, 12:05 AM] Anwesha Malla
     
 Dry Lab I have uploaded a few papers to the folder titled "Pharmacokinetics of lnps data presentation". We can refer to those papers to understand what relevant questions we can answer, for example, the efficiency of drug delivery in the presence of lnps. It would also be great if we can come up with a way for pharmacokinetic analysis and biodistribution as done in the paper on docetaxel.
@@ -257,7 +257,7 @@ Let us meet next Sunday, preferably (for me ![😅](https://statics.teams.cdn.of
     
 Dry Lab Mrigank Pawagi I searched for biomarkers for endometriosis. As of now, no specific biomarkers of endometriosis have been identified (laparoscopy and other methods are used to diagnose it) and none of the studies show very conclusive evidence of an increase in a potential biomarker in endometriosis.  I have attached two pdfs which I felt might be relevant as it has data of the studies carried out to determine if we can have a biomarker for endometriosis. The pdf titled "Endometriosis epidemiology .."has biomarkers under section 10., and the pdf titled "Peripheral biomarkers for endometriosis" has data about the various potential biomarkers like IL8 and IL6 from page 657.
 
-[Peripheral biomarkers for endometriosis.pdf] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/Dry Lab/Peripheral biomarkers for endometriosis.pdf)
+[Peripheral biomarkers for endometriosis.pdf](<files//Peripheral biomarkers for endometriosis.pdf>)
 [6/23, 12:20 PM] Mrigank Pawagi
     Thanks, let me check this out today. 
 [6/25, 12:52 PM] Anwesha Malla
@@ -282,7 +282,7 @@ As for the exact binding eff of the antibody, I will give the data to you. It is
     Dry Lab https://www.thesgc.org/biological-probes/il-8 this has EVERYTHING about the antibody and the antigen
 [6/30, 1:35 AM] Sheersh Sen
     Dry Lab Here's all I've got so far on LNP PK/PD. The document's pretty self explanatory, so please do go through it. You can figure out ways to progress further from it, I guess :")
-[DryLabUpdates.pdf] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/Dry Lab/mRNA-LNP Delivery Systems/DryLabUpdates.pdf)
+[DryLabUpdates.pdf](<files/mRNA-LNP Delivery Systems/DryLabUpdates.pdf>)
 [6/24, 10:35 PM] Sheersh Sen
     Dry Lab Also, regarding the mRNA translation efficiency, there's a paper containing code (in Python and R) to analyse certain in vivo observations that gives us a measure of the translation efficiency. However, that might needs some input from the Wet Lab team as well. It involves something called ORFs (Open Reading Frames). Will upload relevant papers soon.
 ​[6/25, 7:59 PM] Sanika Amol Borade
@@ -300,14 +300,14 @@ I’m also reading the ORF paper you’ve put up. (ORF is basically just a seque
 
 ​[6/30, 1:38 AM] Sheersh Sen
     Yeah I printed the link in the docx into a PDF and uploaded it. (I erroneously named it "mrnaeff" when it's not exactly about that lol) 
-[mrnaeff.pdf] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/Dry Lab/mRNA-LNP Delivery Systems/mrnaeff.pdf)
+[mrnaeff.pdf](<files//mRNA-LNP Delivery Systems/mrnaeff.pdf>)
 [7/4, 12:56 AM] Anwesha Malla
     Dry Lab Here's what I collected for PK and PD of LNPs. I will upload more papers soon. Mrigank Pawagi, the link to the site containing the CSV file is given, in case you or anyone else wants to check it out tonight.
-[PK and PD of LNPS.docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/Dry Lab/PK and PD of LNPS.docx)
+[PK and PD of LNPS.docx](<files/PK and PD of LNPS.docx>)
 
 [7/4, 2:28 PM] Anwesha Malla
     General,Aditya Kamath Ammembal Here is the document with the link to the papers which show why we want to target IL-8 to find a solution for endometriosis. I think I have put all the pdfs in the project proposal relevant to this and have added some myself. 
-[Reasons for targetting IL-8 .docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/Dry Lab/Reasons for targetting IL-8 .docx)​[7/4, 8:41 PM] Aditya Kamath Ammembal
+[Reasons for targetting IL-8 .docx](<files/Reasons for targetting IL-8 .docx>)​[7/4, 8:41 PM] Aditya Kamath Ammembal
     Anwesha Malla, Thanks! As promised, I will collate all the evidence I can and get back to you, hopefully by the end of this week
 ​[7/13, 12:24 PM] Anwesha Malla
     I added another link here. Aditya Kamath Ammembal, should I put all the links in this document in the other document shared in the iGEM confirmed group, earlier?
@@ -320,7 +320,7 @@ I’m also reading the ORF paper you’ve put up. (ORF is basically just a seque
 [7/13, 5:26 PM] Anwesha Malla
     
 Dry Lab Here is the Word document with links to the papers that are useful for relating IL-8 concentrations with active lesions score. However, I have some doubts-There is no mention of active lesion score of 3 in the 4-point scale. Can Aditya Kamath Ammembal, Mrigank Pawagi , or anyone else please help me understand this? Secondly, I haven't found a paper with very well-defined concentrations of IL-8 in the various stages of endometriosis. One of the documents here deals with concentrations, but the stages have been clubbed together, like stages 1,2 and stage 3,4. It will be helpful if any of you too search for the data on the concentration of IL-8 in various stages.
-[Relating il-8 levels with active lesion score.docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/Dry Lab/Relating il-8 levels with active lesion score.docx)​[7/14, 11:47 AM] Mrigank Pawagi
+[Relating il-8 levels with active lesion score.docx](<files/Relating il-8 levels with active lesion score.docx>)​[7/14, 11:47 AM] Mrigank Pawagi
     Wonderful! This goes in the right direction. Let us discuss this in a meeting this weekend. We can do some interesting things with this. We will discuss how we can fill in gaps in the data.
 ​[7/15, 1:05 AM] Aditya Kamath Ammembal
     Hi Anwesha Malla; sorry for getting back to you so late. For your clarification about the whole stage 3-4 confusion, I saw what you were referring to. In the rASRM classification of endometriosis, you will see that the lesion score is NOT the same as the stage of endometriosis. We add the scores to get a total, based on which we decide the stage. I hope this answers your question? 
@@ -330,7 +330,7 @@ Dry Lab Here is the Word document with links to the papers that are useful for r
     Also, the lesion score can go to, like, 20 or something, if I'm not wrong...
 ​[7/15, 8:06 AM] Anwesha Malla
     Thanks for the reply Aditya Kamath Ammembal . I was asking about the scoring of individual lesions, which according to a paper is as attached in the screenshot. Here there's no mention of score 3. Another paper I went through had same information. So I wanted to confirm if a score of 3 is not assigned to individual lesions.
-[20230715_080225.jpg] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared%20Documents/Dry%20Lab/20230715_080225.jpg)​[7/15, 4:44 PM] Aditya Kamath Ammembal
+	[7/15, 4:44 PM] Aditya Kamath Ammembal
     Yes, the lesion score is arbitrary, as mentioned in the paper in which it was introduced. This is why there is no 3...... To make things add up and fall in a range, most probably. 
 ​[7/15, 4:44 PM] Aditya Kamath Ammembal
     Anwesha Malla, this is in fact why, newer systems are trying to replace it!
@@ -338,7 +338,7 @@ Dry Lab Here is the Word document with links to the papers that are useful for r
     Thanks
 [7/31, 12:12 PM] Sanjana D S
     Is there a plan to simulate the structure of LNP with mRNA?
-[lnp formulation prediction.pdf] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/Dry Lab/lnp formulation prediction.pdf)​[7/31, 12:14 PM] Sanjana D S
+[lnp formulation prediction.pdf](<files//lnp formulation prediction.pdf>)​[7/31, 12:14 PM] Sanjana D S
     I have marked 2 paragraphs, the info after that might be helpful in modeling the lnp with the lipid formultion chosen
 ​[7/31, 3:02 PM] Mrigank Pawagi
     Thanks for sharing! Let's discuss this today evening.
@@ -435,10 +435,10 @@ In general: "Most antibodies have KD values in the low micromolar (10-6) to nano
     Great! Can this info be added to our README. Please make a Pull Request whenever possible. 
 [8/26, 9:49 PM] Sheersh Sen
     Aditya Kamath Ammembal and Mrigank Pawagi, here are the papers I talked about. So firstly, I guess we'll try to look into the EPR effect in case of Endometriosis and how strong it is, followed by maybe highlighting important parts of the papers that have some actual quantitative data. As Prof Rachit mentioned, that seems to be the first part of actually coming up with a model for our system. Once we have some data on LNP accumulation and retention, we'll probably have to focus on the transfection efficiency aspect. Thereafter we use whatever mRNA translation data we have et cetera, but right now, this should have priority. 
-[incancer.pdf] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/Dry Lab/PKPDMathModels/incancer.pdf)[eprnanomeds.pdf] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/Dry Lab/PKPDMathModels/eprnanomeds.pdf)
+[incancer.pdf](<files//PKPDMathModels/incancer.pdf)>[eprnanomeds.pdf](<files//PKPDMathModels/eprnanomeds.pdf>)
 [9/30, 8:06 AM] Sanjana D S
     Mrigank Pawagi, I have compiled the things necessary to start the simulation in PK-Sim. Tarushri N S and I will start working on finding them and if anyone knows the data or knows already how to find them, pls do help.
-[PK Sim.docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/Dry Lab/PK Sim.docx)
+[PK Sim.docx](<files/PK Sim.docx>)
 ​[1/10, 1:48 PM] Mrigank Pawagi
     Hi, thanks for the update. Sorry for not being able to respond sooner. I can help with finding these if you could get me started. I will be free all day except 2-3 and 4-5 pm. 
 ​[3/10, 9:27 AM] Sanjana D S
@@ -468,4 +468,4 @@ In general: "Most antibodies have KD values in the low micromolar (10-6) to nano
 * PK with PK-sim
 [5/10, 12:26 AM] Yukta SubramanianEndometriosis and Basal Body Temperature
     Could not find a lot of references.. the results, are concisely summarized in the attachment. I am not sure of how useful this would be, given the limitations of the study. Will try to add any other relevant information.
-[Endometriosis and Basal Body Temperature.docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/Dry Lab/Endometriosis and Basal Body Temperature.docx)
+[Endometriosis and Basal Body Temperature.docx](<files/Endometriosis and Basal Body Temperature.docx>)

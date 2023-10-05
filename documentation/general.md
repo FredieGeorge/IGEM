@@ -4,24 +4,24 @@
 
 [2/28, 6:27 PM] Sheersh Sen
     Minutes for today's meeting. Feel free to edit/correct any errors.
-[Meeting3, 2802023.docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/General/MeetingMinutes/Meeting3, 2802023.docx)
+[Meeting3, 2802023.md](<minutes/Meeting3, 2802023.md>)
 
 [3/2, 7:52 PM] Yukta Subramanian
     Hello iGEM 2023,
 
 I have uploaded a gist of today's meeting with Prof Rachit Aggarwal, Drug Delivery Lab.
-[Meeting-02.03.23.docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/General/Meeting-02.03.23.docx)
+[Meeting-02.03.23.md](</minutes/Meeting-02.03.23.md>)
 
 [3/2, 10:23 PM] Yukta Subramanian
     Few articles on LNPs have been uploaded. Encourage you to go through them before tomorrow's meeting.
 
 [3/6, 12:33 PM] Sheersh Sen
     iGEM 2023 I've uploaded the meeting minutes of the last meeting. There may be errors and stuff so please do correct them
-[Meeting4, 03032023.docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/General/MeetingMinutes/Meeting4, 03032023.docx)
+[Meeting4, 03032023.md](<minutes/Meeting4, 03032023.docx>)
 
 [3/8, 10:11 PM] Sheersh Sen
     iGEM 2023 Meeting minutes of our 5th meeting. Edit/correct as needed.
-[Meeting5, 07032023.docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/General/MeetingMinutes/Meeting5, 07032023.docx)
+[Meeting5, 07032023.md](<minutes/Meeting5, 07032023.docx>)
 
 [3/9, 2:19 PM] Sohaan Kumar Pattanayak
     iGEM 2023 A rough flow chart of our present ideas on dry and wet labs have been uploaded in the exosomes section
@@ -33,13 +33,13 @@ I have uploaded a gist of today's meeting with Prof Rachit Aggarwal, Drug Delive
     4. Read on the drug delivery idea
 [3/10, 8:08 PM] Sheersh Sen
     iGEM 2023 Meeting minutes uploaded! Everyone please correct any errors I might have made in interpreting your presentations
-[Meeting6, 10032023.docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/General/MeetingMinutes/Meeting6, 10032023.docx)
+[Meeting6, 10032023.docx](<minutes/Meeting6, 10032023.md>)
 [3/11, 3:58 PM] Aditya Kamath Ammembal
     iGEM 2023 New ppt I presented yesterday uploaded under the endometriosis exosomes folder
 [3/15, 10:37 PM] Yukta Subramanian
     iGEM 2023 Minutes of today's meeting:
 
-[igem Meeting Min-15-3.docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/General/igem Meeting Min-15-3.docx)
+[igem Meeting Min-15-3.docx](</minutes/igem Meeting Min-15-3.md>)
 [3/15, 11:04 PM] Aditya Kamath Ammembal
     iGEM 2023 I have uploaded all the papers I have gone through on aptides under a new folder. 
 [3/16, 12:26 AM] Shloak Vatsal
@@ -48,13 +48,13 @@ I have uploaded a gist of today's meeting with Prof Rachit Aggarwal, Drug Delive
     iGEM 2023 I have uploaded the new ppt on teams under 'endometriosis_aptides'
 [3/18, 10:47 PM] Sheersh Sen
     iGEM 2023 Meeting minutes are up!
-[Meeting8, 18032023.docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/General/MeetingMinutes/Meeting8, 18032023.docx)
+[Meeting8, 18032023.docx](<minutes/Meeting8, 18032023.md>)
 [3/28, 11:34 PM] Shloak Vatsal
     iGEM 2023 I've uploaded the new ppt. We'll still work on the biofilms idea.
 [Biofilms.pdf] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared%20Documents/Biofilms/Biofilms.pdf)
 [3/28, 11:52 PM] Sheersh Sen
     iGEM 2023 Meeting minutes are up!
-[Meeting10, 28032023.docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/General/MeetingMinutes/Meeting10, 28032023.docx)
+[Meeting10, 28032023.docx](<minutes/Meeting10, 28032023.md>)
 [4/10, 10:28 AM] Aditya Kamath Ammembal
     iGEM 2023, i have uploaded a new, (hopefully more comprehensibleupsidedownface), project proposal in the endometriosis_aptides folder, as 'iGEM 2023 project proposal NEW'. I have also uploaded a document of FAQs' on the project as 'project clarifications'
 [4/10, 3:17 PM] Shloak Vatsal
@@ -64,7 +64,7 @@ I have uploaded a gist of today's meeting with Prof Rachit Aggarwal, Drug Delive
     iGEM 2023 I have uploaded the Thermo Fisher IVT protocol under endometriosis_aptides, as 'IVT kit'
 [4/11, 10:29 PM] Sheersh Sen
     iGEM 2023 Meeting minutes are up! 
-(1 liked)[Meeting11, 11042023.docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared%20Documents/General/MeetingMinutes/Meeting11,%2011042023.docx)
+(1 liked)[Meeting11, 11042023.docx](<minutes/Meeting11, 11042023.md>)
 [4/12, 12:27 PM] Aditya Kamath Ammembal
     iGEM 2023 I have uploaded a paper that gives the procedure for conjugation of the aptide to DSPE MAL PEG 2000 under endometriosis_aptides
 [4/14, 8:58 PM] Yukta Subramanian
@@ -129,7 +129,7 @@ We will begin by covering the basics and give a brief overview of culturing and 
 
 [5/16, 9:41 PM] Sheersh Sen
     Meeting minutes up! iGEM 2023
-[MeetingX, 16052023.docx] (https://indianinstituteofscience.sharepoint.com/sites/iGEM2023/Shared Documents/General/MeetingMinutes/MeetingX, 16052023.docx)
+[MeetingX, 16052023.docx](<minutes/MeetingX, 16052023.docx>)
 [5/17, 12:31 AM] Sohaan Kumar Pattanayak
     
 iGEM 2023 Other diseases and potential specific targeting using aptides. Edit and/or add as needed.
